@@ -1,12 +1,9 @@
 # ---- Load packages ----
 if(!require(pacman)) install.packages("pacman")
 pacman::p_load(tidyverse, googlesheets4, janitor, ggthemes, extrafont, svglite)
-# ---- Import from Google sheet ----
-sheet_id <- "1L5-KtL4fBAD_Lyjn-aS4T3dIA19LFziF-7XUjx89jEk"
 
-disneyAll <- read_sheet(sheet_id,
-                           range = "A1:L629",
-                           sheet = "updatedData")
+# ---- Import data ----
+disneyAll <- read_csv("data/Disney_movies.csv")
 
 # ---- Font setup ----
 font_import()
