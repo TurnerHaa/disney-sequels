@@ -16,7 +16,7 @@ Disney began releasing sequels in the 1960s, but their output kicked into a high
 
 Prequels? Not so much. The last one, Oz the Great and Powerful (2013), didn’t exactly inspire a deluge of new films. Gee I wonder why!
 
-<img src="https://github.com/TurnerHaa/disney-sequels/blob/main/images/01_cumulativeReleases.png" height = "50%">
+<img src="https://github.com/TurnerHaa/disney-sequels/blob/main/images/01_cumulativeReleases.png" width = "50%" height = "50%">
 
 I can hear you already  – But Disney makes all kinds of movies! Maybe they’re making more films in general, including originals!
 
@@ -24,7 +24,7 @@ And true! In the 1960s, Disney made 52 films. By the 2010s, that number had jump
 
 But here’s the thing: In the 1960s, only 6% of Disney’s films were sequels, prequels, remakes, or spin-offs. By 2010 that number had shot up to 44%
 
-<img src="https://github.com/TurnerHaa/disney-sequels/blob/main/images/02_decadeWaffle.png" height = "50%">
+<img src="https://github.com/TurnerHaa/disney-sequels/blob/main/images/02_decadeWaffle.png"  width = "50%" height = "50%">
 
 But some studios have more to answer for this slew of sequels than others. 
 
@@ -32,13 +32,13 @@ Curiously – Walt Disney Pictures, the company that started it all, releases th
 
 The real culprits? You guessed it – Marvel’s cinematic universe and Lucasfilm’s cinematic galaxy far, far away.
 
-<img src="https://github.com/TurnerHaa/disney-sequels/blob/main/images/03_studioWaffles.png" height = "50%">
+<img src="https://github.com/TurnerHaa/disney-sequels/blob/main/images/03_studioWaffles.png"  width = "50%" height = "50%">
 
 So job done right? Yes, today Disney is leaning more on its past work than it did in the past. In fact, since 2020 more than 1 in 3 Disney films were connected to a previous movie.
 
 Does that mean that Disney has lost their spark? Are they less creative than they used to be? Not necessarily.
 
-<img src="https://github.com/TurnerHaa/disney-sequels/blob/main/images/04proportionChange.png" height = "50%">
+<img src="https://github.com/TurnerHaa/disney-sequels/blob/main/images/04proportionChange.png"  width = "50%" height = "50%">
 
 When Disney released their first film, Snow White and the Seven Dwarves, there weren’t exactly many movies to copy.
 
@@ -46,7 +46,7 @@ Did that mean they just churned out new idea after new ideal? Of course not!
 
 They borrowed from what was popular at the time – books, plays, nursery rhymes, fairy tales – let’s add them to our chart.
 
-<img src="https://github.com/TurnerHaa/disney-sequels/blob/main/images/05proportionChange.png" height = "50%">
+<img src="https://github.com/TurnerHaa/disney-sequels/blob/main/images/05proportionChange.png" width = "50%" height = "50%">
 
 And when we do, we finally see a historic handover – a baton pass between zeitgeists. 
 
