@@ -2,7 +2,8 @@
 
 **The question:** Does Disney make more sequels now that it used to?
 
-**The solution:** This short analysis/article using R analysis and ggplot2 visualizations (plus some finessing in Illustrator) to try and find the answer. 
+**The solution:** A short data analysis/article using R and ggplot2 visualizations (plus some finessing in Illustrator) to find an answer. The visualizations are loosely inspired by the Economist's 'graphic detail' series, prioritizing efficient data storytelling and succinct insights for a broad audience.
+
 
 ## Intro
 These days, it can feel like every movie is a sequel or spin-off. 
